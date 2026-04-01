@@ -12,7 +12,7 @@ import tempfile
 import os
 
 st.set_page_config(page_title="Bond Calculator", layout="wide")
-
+page_icon="🧮",
 
 # =========================
 # Financial helper methods
@@ -500,8 +500,7 @@ def build_pdf_bytes(inputs, result):
 # =========================
 # UI
 # =========================
-st.title("NORTHERN TERRITORY TREASURY CORPORATION")
-st.subheader("BOND PRICE CALCULATOR")
+st.title("BOND PRICE CALCULATOR")
 
 col1, col2 = st.columns(2)
 
