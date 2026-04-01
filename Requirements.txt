@@ -1,0 +1,15 @@
+tkinter
+datetime
+fpdf
+math
+calendar
+dateutil.relativedelta
+tkcalendar
+matplotlib.backends.backend_tkagg
+matplotlib.pyplot 
+numpy
+decimal
+os
+platform
+tempfile
+messagebox
