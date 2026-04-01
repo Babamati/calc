@@ -11,8 +11,8 @@ import calendar
 import tempfile
 import os
 
-st.set_page_config(page_title="Bond Calculator", layout="wide")
-page_icon="🧮",
+st.set_page_config(page_title="Bond Calculator",page_icon="🧮", layout="wide")
+
 
 # =========================
 # Financial helper methods
